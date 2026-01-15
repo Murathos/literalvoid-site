@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/still",
+      "destination": "https://apps.apple.com/app/id6752446871",
+      "permanent": false
+    }
+  ]
+}
